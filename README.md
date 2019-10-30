@@ -1,5 +1,5 @@
 # FacePlay
-Automated spotify player which uses your face to recognize your music
+Automated spotify player which uses your face to play your music
 
 Requirements:
 
